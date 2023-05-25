@@ -1,0 +1,1 @@
+web: gunicorn f1simblog.wsgi
